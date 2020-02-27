@@ -4,7 +4,7 @@ cover: "./blocks.jpg"
 date: "2018-10-15"
 title: "Jeff Boothby"
 published: true
-tags: ['website', 'react', 'other']
+tags: ['Engineering', 'Startups', 'Silicon Valley']
 ---
 ## Jeff Boothby
 ### Bugcrowd

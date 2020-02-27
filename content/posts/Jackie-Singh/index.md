@@ -1,12 +1,12 @@
 ---
-path: "/Jason-Schorr"
+path: "/Jackie-Singh"
 cover: "./blocks.jpg"
 date: "2018-10-15"
-title: "Jason Schorr"
+title: "Jackie Singh"
 published: true
 tags: ['Programming', 'Information Security', 'Blue Team', 'Leadership']
 ---
-## Jason Schorr
+## Jackie Singh
 ### Founder
 
 **Sr. Kick Ass Dude**
