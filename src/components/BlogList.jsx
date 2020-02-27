@@ -95,7 +95,6 @@ const BlogList = ({ path, cover, title, date, excerpt, tags }) => (
         </Link>
       </Image>
       <Information>
-        <Date>{date}</Date>
         <Link to={path}>
           <Title>{title}</Title>
         </Link>
