@@ -2,16 +2,16 @@
 path: "/Jason-Schorr"
 cover: "./blocks.jpg"
 date: "2018-10-15"
-title: "Jeff Boothby"
+title: "Jason Schorr"
 published: true
 tags: ['website', 'react', 'other']
 ---
-## Jeff Boothby
-### Bugcrowd
+## Jason Schorr
+### Founder
 
-**Sr. Trust & Security Engineer**
-*San Francisco*
+**Sr. Kick Ass Dude**
+*New York City*
 
-Jeff is a Senior Trust and Security Engineer at Bugcrowd. He is an advocate for safe harbor and works on all sides of bug bounties. Past experience includes security testing for both DAST and SAST. He gives training sessions for those looking to become penetration testers or hackers and is driven to keep information safe. In his spare time, he enjoys bug hunting and racing at local tracks.
+Jason does some stuff and then did some more stuff. hes doing this thing right now. so lets give him a hand for all  the things he does for all the people.
 
-**Twitter: @JeffBoothby**
+**Twitter: @0xBanana**
