@@ -14,8 +14,9 @@ collections:
     slug: "{{slug}}"
     fields: 
       - {label: "path", name: "path", widget: "string", default: "FName-LName"}
-      - {label: "cover", name: "cover", widget: "string", default: ""}
+      - {label: "cover", name: "cover", widget: "string", default: "",required: false}
       - {label: "date", name: "date", widget: "datetime", default: ""}
       - {label: "title", name: "title", widget: "string", default: "First Last"}
       - {label: "published", name: "published", widget: "boolean", default: false}
       - {label: "tags", name: "tags", widget: "list", default: [] }
+      - {label: "Body", name: "body", widget: "markdown"}
